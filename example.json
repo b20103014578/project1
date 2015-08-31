@@ -1,3 +1,15 @@
 {
-  "model": "xPhone"
+  "model": "xPhone",
+  "color": "white",
+  "price": 10000,
+  "teset": {
+  },
+  "vendor":{
+    "name": "Bill",
+    "website": "http://www.mandice.com/",
+    "tel":[
+      "4545465",
+      "123123"
+    ]
+  }
 }
