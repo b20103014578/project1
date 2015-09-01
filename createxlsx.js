@@ -7,7 +7,7 @@ xlsx.name = 'My excel';
 
 //create new sheet
 var sheet = xlsx.makeNewSheet();
-sheet data[10]=[];
+sheet.data[10]=[];
 sheet.data[10][2] = 'Hello';
 sheet.setCell('G8','Node.js');
 
